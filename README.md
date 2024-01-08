@@ -2,10 +2,10 @@
 ## the second largest heading
 ### the smallest heading
 
-Hello everyone repo for this git course.
+**Hello everyone repo for this git course.**
 
-This is the first project on github.
+*This is the first project on github.*
 
-Best wishes
+~Best wishes~
 
-Thank you!
+***Thank you!***
